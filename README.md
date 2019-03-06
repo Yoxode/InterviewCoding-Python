@@ -1,2 +1,2 @@
 # InterviewCoding-Python
-剑指offer-Python
+数据结构与算法刷题记录（Python）
